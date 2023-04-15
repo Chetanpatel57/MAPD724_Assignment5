@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  MyRecipeHub
+
+ 
+*/
+
+"Home"  = "Home";
+"Categories"  = "Categories";
+"Favorities"  = "Favorities";
+"Settings"  = "Settings";
+"My Recipes"  = "My Recipes";
+"NoRecipesSaved"  = "You haven't save any recipe to your favourite yet";
+"App version"  = "App version";
+"Dark Mode"  = "Dark Mode";
+"Share App"  = "Share App";
+"About Us"  = "About Us";
+"OK"  = "OK";
+"Ingredients"  = "Ingredients";
+"Directions"  = "Directions";
+"Visit Website"  = "Visit Website";
+"recipes"  = "recipes";
+"recipe"  = "recipe";
+"Breakfast"  = "Breakfast";
+"Soup"  = "Soup";
+"Salad"  = "Salad";
+"Appetizer"  = "Appetizer";
+"Main"  = "Main";
+"Side"  = "Side";
+"Dessert"  = "Dessert";
+"Snack"  = "Snack";
+"Drink"  = "Drink";
+"aboutusText"  = "Tell Something about your app and organization";
+"Favourites" = "Favourites";

@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  MyRecipeHub
+
+  
+*/
+
+"Home" = "होम";
+"Categories" = "श्रेणियाँ";
+"Favorities" = "पसंदीदा";
+"Settings" = "सेटिंग्स";
+"My Recipes" = "मेरी रेसिपी";
+"NoRecipesSaved" = "आपने अभी तक कोई रेसिपी अपनी पसंदीदा में सहेजी नहीं हैं।";
+"App version" = "ऐप का संस्करण";
+"Dark Mode" = "डार्क मोड";
+"Share App" = "ऐप शेयर करें";
+"About Us" = "हमारे बारे में";
+"OK" = "ठीक है";
+"Ingredients" = "सामग्री";
+"Directions" = "निर्देश";
+"Visit Website" = "वेबसाइट पर जाएं";
+"recipes" = "रेसिपीज़";
+"recipe" = "रेसिपी";
+"Breakfast" = "नाश्ता";
+"Soup" = "सूप";
+"Salad" = "सलाद";
+"Appetizer" = "पहला कोर्स";
+"Main" = "मुख्य व्यंजन";
+"Side" = "साइड डिश";
+"Dessert" = "मिठाई";
+"Snack" = "स्नैक";
+"Drink" = "पेय";
+"aboutusText" = "अपने ऐप और संगठन के बारे में कुछ बताएं।";
+"Favourites" = "पसंदीदा";
